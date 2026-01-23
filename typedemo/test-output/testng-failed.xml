@@ -5,8 +5,8 @@
     <classes>
       <class name="Acti.Acting">
         <methods>
+          <include name="thirdtestcase"/>
           <include name="setup"/>
-          <include name="secondtestcase"/>
           <include name="teardown"/>
         </methods>
       </class> <!-- Acti.Acting -->
