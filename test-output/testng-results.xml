@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-28T16:34:13 IST" name="Default suite" finished-at="2026-01-28T16:35:05 IST" duration-ms="51871">
+    <groups>
+    </groups>
+    <test started-at="2026-01-28T16:34:13 IST" name="Default test" finished-at="2026-01-28T16:35:05 IST" duration-ms="51871">
+      <class name="Acti.Acting">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Acti.Acting@536f2a7e]" started-at="2026-01-28T16:34:13 IST" name="setup" finished-at="2026-01-28T16:34:16 IST" duration-ms="3664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="firsttestcase(java.lang.String,java.lang.String)[pri:0, instance:Acti.Acting@536f2a7e]" started-at="2026-01-28T16:34:20 IST" name="firsttestcase" data-provider="loginData" finished-at="2026-01-28T16:34:25 IST" duration-ms="5689" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajam@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ty6y7uwyye]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttestcase -->
+        <test-method signature="firsttestcase(java.lang.String,java.lang.String)[pri:0, instance:Acti.Acting@536f2a7e]" started-at="2026-01-28T16:34:25 IST" name="firsttestcase" data-provider="loginData" finished-at="2026-01-28T16:35:00 IST" duration-ms="34313" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mallikahs25@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Beckman@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttestcase -->
+        <test-method signature="firsttestcase(java.lang.String,java.lang.String)[pri:0, instance:Acti.Acting@536f2a7e]" started-at="2026-01-28T16:35:00 IST" name="firsttestcase" data-provider="loginData" finished-at="2026-01-28T16:35:03 IST" duration-ms="3047" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jaythirtha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2twgsvv]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttestcase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Acti.Acting@536f2a7e]" started-at="2026-01-28T16:35:03 IST" name="tearDown" finished-at="2026-01-28T16:35:05 IST" duration-ms="1766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Acti.Acting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
